@@ -1,0 +1,10 @@
+[package]
+name = "planeview"
+version = "0.1.0"
+entrypoint = "lib.typ"
+authors = ["macro"]
+license = "MIT"
+description = "Plot 2D and 3D functions/equations from simple expressions using CeTZ."
+repository = ""
+keywords = ["plot", "cetz", "3d", "2d", "equations"]
+compiler = "0.11.0"
